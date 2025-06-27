@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# E3NG-x-Monolith
+# E3NG x Monolith
 Monolith gantry (by CloakedWayne) adapted to fit E3NG (by RH3D)
 > [!IMPORTANT]
 > **There is no step-by-step build guide or detailed documentation yet, nor has this been tested yet.**
