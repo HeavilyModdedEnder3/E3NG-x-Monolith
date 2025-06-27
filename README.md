@@ -3,7 +3,7 @@
 # E3NG x Monolith
 Monolith gantry (by CloakedWayne) adapted to fit E3NG (by RH3D)
 > [!IMPORTANT]
-> **There is no step-by-step build guide or detailed documentation yet, nor has this been tested yet.**
+> **There is no step-by-step build guide, detailed documentation, nor has this been tested yet.**
 
 This version uses MGN12H rails on both X and Y, 2WD or AWD, 6mm belts, and is compatible with linear rails on Z.
 
