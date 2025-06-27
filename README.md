@@ -7,7 +7,7 @@ Monolith gantry (by CloakedWayne) adapted to fit E3NG (by RH3D)
 
 This version uses MGN12H rails on both X and Y, 2WD or AWD, 6mm belts, and is compatible with linear rails on Z.
 
-Recommended toolhead is Trinity Toolhead (Find under the Monolith discord, under user projects)
+Recommended toolhead is [Trinity Toolhead](https://github.com/WV-design/Trinity-toolhead) (Bed relocation, to minimize Y travel loss, coming soon™)
 
 >[!NOTE]
 >**Consider joining the dedicated Discord servers.**
