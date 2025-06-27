@@ -14,7 +14,7 @@ Recommended toolhead is Trinity Toolhead (Find under the Monolith discord, under
 >
 >[Join CloakedWayne's (Monolith) Discord!](https://discord.gg/JanBKxAzDz)
 
-<br/><br/><br/><br/>
+<br/><br/>
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
