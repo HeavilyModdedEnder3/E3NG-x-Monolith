@@ -10,9 +10,10 @@ This version uses MGN12H rails on both X and Y, 2WD or AWD, 6mm belts, and is co
 Recommended toolhead is Trinity Toolhead (Find under the Monolith discord, under user projects)
 
 >[!NOTE]
->[Join RH3D's (E3NG) Discord!](https://discord.com/invite/Zkvu6uu2AR)
+>**Consider joining the dedicated Discord servers.**
 >
->[Join CloakedWayne's (Monolith) Discord!](https://discord.gg/JanBKxAzDz)
+>[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+>[![Join the Discord](https://discord.com/api/guilds/1108974167900045412/widget.png?style=banner3)](https://discord.gg/b69QDVKR7G)
 
 <br/><br/>
 This work is licensed under a
