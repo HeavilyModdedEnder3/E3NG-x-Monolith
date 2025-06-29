@@ -9,6 +9,9 @@ This version uses MGN12H rails on both X and Y, 2WD or AWD, 6mm belts, and is co
 
 Recommended toolhead is [Trinity Toolhead](https://github.com/WV-design/Trinity-toolhead) (Bed relocation, to minimize Y travel loss with Trinity, coming soon™)
 
+### [Configurator and BOM - Google Sheets](https://docs.google.com/spreadsheets/d/1D8WqKp-7N43TXyPmcDp5rAgj3pNO3tcqlk9iRl9xlik/edit?usp=sharing)
+
+
 >[!NOTE]
 >**Consider joining the dedicated Discord servers.**
 >
