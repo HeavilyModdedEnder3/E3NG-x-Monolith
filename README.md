@@ -3,7 +3,7 @@
 # E3NG x Monolith
 Monolith gantry (by CloakedWayne) adapted to fit E3NG (by RH3D)
 > [!IMPORTANT]
-> **There is no step-by-step build guide, detailed documentation, nor has this been tested yet.**
+> **There is no step-by-step build guide, detailed documentation, nor has this been tested yet**
 > 
 > **Don't look at part names for important information, in CAD, such as rail length**
 
