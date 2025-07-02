@@ -11,6 +11,8 @@ This version uses MGN12H rails on both X and Y, 2WD or AWD, 6mm belts, and is co
 
 Recommended toolhead is [Trinity Toolhead](https://github.com/WV-design/Trinity-toolhead) (Bed relocation, to minimize Y travel loss with Trinity, coming soon™)
 
+Cable Strain Relief is [PUG](https://www.printables.com/model/378567-pug-parametric-umbilical-gland)
+
 ### [Configurator and BOM - Google Sheets](https://docs.google.com/spreadsheets/d/1D8WqKp-7N43TXyPmcDp5rAgj3pNO3tcqlk9iRl9xlik/edit?usp=sharing)
 
 
@@ -24,6 +26,7 @@ Recommended toolhead is [Trinity Toolhead](https://github.com/WV-design/Trinity-
 - **CloakedWayne** for the Monolith Gantry
 - **RH3D** for designing the great base printer
 - **Ricky** for testing
+- **fbeauKmi** for PUG
 - Anybody else who helped w/ improving this project
 
 <br/><br/>
