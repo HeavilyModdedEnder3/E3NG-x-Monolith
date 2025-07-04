@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 7.4.2025
+
+- Front AWD motor mounts were missing 0.5mm spacing in bearing stacks
+
 ### 7.1.2025
 
 - Configurator, BOM, Stock BOM vs Rail BOM are pretty much done
