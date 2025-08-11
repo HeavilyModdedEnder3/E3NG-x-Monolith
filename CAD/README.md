@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### 8.11.2025
+
+- Added a Front Brace for AWD
+  - Uses 300mm 2020 extrusion, 4 M3 roll-ins, and 4 M3x8 BHCS
+
 ### 7.4.2025
 
 - Front AWD motor mounts were missing 0.5mm spacing in bearing stacks
