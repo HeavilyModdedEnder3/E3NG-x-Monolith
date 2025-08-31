@@ -2,6 +2,16 @@
 
 ## Changelog
 
+### 8.31.2025
+
+- Fixed all 6 files under /Rear_midsection/
+  - Right tensioner used to be blocked, but a cutout has been made
+
+### 8.30.2025
+
+- Deprecating Stock vs Rail BOM due to bugs
+- Renamed pulleys in BOM to make it more clear (6mm belt, 5mm bore)
+
 ### 8.11.2025
 
 - Added a Front Brace for AWD
