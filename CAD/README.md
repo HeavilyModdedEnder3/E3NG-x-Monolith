@@ -26,6 +26,6 @@
 - Configurator, BOM, Stock BOM vs Rail BOM are pretty much done
 - CAD files are updated and uploaded
 
-### 06.27.2025
+### 6.27.2025
 
 - Made the configurator
