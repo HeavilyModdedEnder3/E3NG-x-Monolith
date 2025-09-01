@@ -4,6 +4,7 @@
 
 ### 8.31.2025
 
+- 9mm CAD added
 - Fixed all 6 files under /Rear_midsection/
   - Right tensioner used to be blocked, but a cutout has been made
 
