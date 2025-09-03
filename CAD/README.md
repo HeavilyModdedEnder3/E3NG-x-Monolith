@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 9.1.2025
+
+- 9/10mm has been added to Configurator
+
 ### 8.31.2025
 
 - 9mm CAD added
