@@ -1,10 +1,11 @@
-### The [E3NG-Monolith Configurator (UNDER CONSTRUCTION)](https://docs.google.com/spreadsheets/d/1D8WqKp-7N43TXyPmcDp5rAgj3pNO3tcqlk9iRl9xlik/edit?usp=sharing) will give you the links to the files you need for your build!
+### The [E3NG-Monolith Configurator](https://docs.google.com/spreadsheets/d/1D8WqKp-7N43TXyPmcDp5rAgj3pNO3tcqlk9iRl9xlik/edit?usp=sharing) will give you the links to the files you need for your build!
 
 ## Changelog
 
 ### 9.1.2025
 
 - 9/10mm has been added to Configurator
+- Instructions for Hybrid 9/10mm XY joints are in the Configurator
 
 ### 8.31.2025
 
