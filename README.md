@@ -15,7 +15,7 @@ Recommended toolhead is [Trinity Toolhead](https://github.com/WV-design/Trinity-
 
 Cable Strain Relief is [PUG](https://www.printables.com/model/378567-pug-parametric-umbilical-gland)
 
-### [Configurator and BOM (UNDER CONSTRUCTION) - Google Sheets](https://docs.google.com/spreadsheets/d/1D8WqKp-7N43TXyPmcDp5rAgj3pNO3tcqlk9iRl9xlik/edit?usp=sharing)
+### [Configurator and BOM - Google Sheets](https://docs.google.com/spreadsheets/d/1D8WqKp-7N43TXyPmcDp5rAgj3pNO3tcqlk9iRl9xlik/edit?usp=sharing)
 
 
 >[!NOTE]
